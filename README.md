@@ -1,6 +1,6 @@
 # reading-notes-repo
 
-##here i teach you how to write in **markdown** in *easy way*
+## here i teach you how to write in **markdown** in *easy way*
 
 to make the text bold just add two asterisk sign each ends 
 other way instead of asterisk sign use two underscore sign
@@ -16,4 +16,15 @@ EXAMPLE [link facebook](https://www.facebook.com/)
 one hashtag will get h1 as html and two hashtag get h2 and so..
 
 to make a list Unordered use befor the element list  asterisk sign and consider tolerance
+EXAMPLE
+* HOME
+* OUR PROJECT
+ * AMMAN
+ * AQABA
 to make a list Ordered use befor the element list  number one and consider tolerance
+1. JORDAN
+ 1.AMMAN
+ 1.AQABA
+1. EGYPT
+ 1.CARIO
+ 1.SHARMELSHIKE
