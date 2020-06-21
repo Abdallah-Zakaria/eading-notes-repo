@@ -17,14 +17,16 @@ one hashtag will get h1 as html and two hashtag get h2 and so..
 
 to make a list Unordered use befor the element list  asterisk sign and consider tolerance
 EXAMPLE
-* HOME
-* OUR PROJECT
- * AMMAN
- * AQABA
+* AMMAN
+* AQABA
+* IRBID
+
 to make a list Ordered use befor the element list  number one and consider tolerance
-1. JORDAN
- 1.AMMAN
- 1.AQABA
-1. EGYPT
- 1.CARIO
- 1.SHARMELSHIKE
+EXAMPLE
+1. ABDALLAH
+2. OMAR
+3. ALI
+
+to add an image same as add link but the only the two different is but a question mark befor the brackets and put the utl instead of the link
+EXAMPLE ![IMG](https://scontent.famm7-1.fna.fbcdn.net/v/t1.0-9/15873137_1326114107411056_3164621081877315924_n.png?_nc_cat=106&_nc_sid=9267fe&_nc_eui2=AeGQu9wM2-Uc1elljgMdiCNybUNkmNCGAoBtQ2SY0IYCgAeISmuePYPv6C3NqxOiJCV9MZAzhvHmVueCNoZ3XjVv&_nc_ohc=BZVUgfpSfIUAX9qVVJi&_nc_ht=scontent.famm7-1.fna&oh=db67f57927ce18fb248fe04c4b314563&oe=5F15F712)
+
