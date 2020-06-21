@@ -1,6 +1,2 @@
 
-& word
-' word '
-
-
-* word
+`dragonfly`
