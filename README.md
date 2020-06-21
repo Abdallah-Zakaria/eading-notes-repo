@@ -14,3 +14,6 @@ to link a web page with a word or sentences just write a word between brackets a
 EXAMPLE [link facebook](https://www.facebook.com/)
 
 one hashtag will get h1 as html and two hashtag get h2 and so..
+
+to make a list Unordered use befor the element list  asterisk sign and consider tolerance
+to make a list Ordered use befor the element list  number one and consider tolerance
