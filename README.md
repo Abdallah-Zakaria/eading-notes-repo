@@ -14,6 +14,6 @@ And my goals in the long term to fulfill my own project.
 
 | Read No. |                      link                                            |
 |----------|:--------------------------------------------------------------------:|
-|    1     |(Read01)[https://abdallah-zakaria.github.io/reading-notes-repo/read01]|
-|    2     |(Read02)[https://abdallah-zakaria.github.io/reading-notes-repo/read02]|
-|    3     |(Read03)[https://abdallah-zakaria.github.io/reading-notes-repo/read03]|
+|    1     |[Read01](https://abdallah-zakaria.github.io/reading-notes-repo/read01)|
+|    2     |[Read02](https://abdallah-zakaria.github.io/reading-notes-repo/read02)|
+|    3     |[Read03](https://abdallah-zakaria.github.io/reading-notes-repo/read03)|
