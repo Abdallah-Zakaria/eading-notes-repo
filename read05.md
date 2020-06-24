@@ -34,3 +34,4 @@ The CSS contanins two main parts the __selector__ and the __declaration__.
  You can specify any color in CSS in one of three ways:
 - __rgb values__ : These express colors in terms of how much red, green and blue are used to make it up.  For example: rgb(100,100,90)
 - __hex codes__ : These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80
+- __color names__ : There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
