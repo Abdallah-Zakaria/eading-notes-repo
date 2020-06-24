@@ -31,5 +31,5 @@ While loop
 - if you don't know how many times the cood should run , then use the while loop,  there is no counter in this loop.
 
 Do while loop 
-- same as while loop, but its always run the code one time befor start the check the condition.
+- same as while loop, but its always run the code one time befor start the check the condition .
 
